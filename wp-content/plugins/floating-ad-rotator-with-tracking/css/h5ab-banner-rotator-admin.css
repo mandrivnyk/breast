@@ -1,0 +1,109 @@
+.h5ab-ad-container {
+max-width: 70%;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+padding: 5px;
+margin-top: 15px;
+border: 1px solid #ccc;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+
+#h5ab-featured-upload {
+min-height: 150px;
+}
+
+#h5ab_banner_array .row {
+margin: 5px 0;
+}
+
+.h5ab-advert-type + label {
+display: inline-block;
+width: 150px;
+padding: 5px;
+text-align: center;
+color: #fff;
+background-color: #bdc3c7;
+}
+
+#h5ab-banner-link-new, #h5ab-banner-admin-show, #h5ab-banner-visitor-show, #h5ab-banner-session, #h5ab-banner-randomize {
+display: none;
+}
+
+#h5ab-banner-link-new + label, #h5ab-banner-admin-show + label, #h5ab-banner-visitor-show + label, #h5ab-banner-session + label, #h5ab-banner-randomize + label {
+display: block;
+width: 275px;
+padding: 5px;
+text-align: center;
+color: #fff;
+margin: 5px 0;
+background-color: #e74c3c;
+}
+
+.h5ab-advert-type:checked + label, #h5ab-banner-link-new:checked + label, #h5ab-banner-admin-show:checked + label, #h5ab-banner-session:checked + label,
+#h5ab-banner-visitor-show:checked + label, #h5ab-banner-randomize:checked + label {
+background-color: #2ecc71;
+}
+
+.h5ab-image-cont span {
+display:block;
+}
+
+#h5ab_banner_customhtml, #h5ab_banner_array {
+margin: 10px 0;
+}
+
+.h5ab-upload-banner-input-btn {
+margin-left: 5px;
+margin-right: 10px;
+}
+
+#h5ab_banner_customhtml label {
+display: block;
+width: 300px;
+}
+
+#h5ab_banner_customhtml textarea {
+display: block;
+width: 310px;
+height: 200px;
+}
+
+#h5ab_upload_banner_submit {
+margin: 10px 0;
+}
+
+#h5ab-affiliate-advert {
+position: absolute;
+}
+
+.h5ab-advert-image {
+max-width: 99%;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+padding: 5px;
+margin: 5px 0;
+border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+.h5ab-advert-image img {
+max-width: 100%;
+height: auto;
+}
+
+@media (max-width: 1120px) {
+
+.h5ab-ad-container {
+max-width: 95%;
+margin: 15px auto;
+}
+
+#h5ab-affiliate-advert {
+margin: 5px 0;
+position: static;
+}
+
+}
